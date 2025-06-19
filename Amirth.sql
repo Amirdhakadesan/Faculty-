@@ -7,5 +7,3 @@ Create table faculty(id INT auto_increment primary key, name varchar(100) Not Nu
 
 
 select * from faculty;
-
-drop table admin;
